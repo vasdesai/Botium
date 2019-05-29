@@ -1,0 +1,11 @@
+{
+	"botium": {
+		"Capabilities": {
+			"PROJECTNAME": "skypebot",
+			"CONTAINERMODE": "directline3",
+			"DIRECTLINE3_SECRET": "lMNti5T_y80.cwA.898.XIrco807JfSkCHFwiiMfQMapMVHjWJOXKrtLZ0IQ9XQ",
+			"DIRECTLINE3_WEBSOCKET": true,
+			"DIRECTLINE3_POLLINGINTERVAL": 3000
+		}
+	}
+}

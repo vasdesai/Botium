@@ -1,0 +1,41 @@
+TC003
+
+#me
+hi
+
+#bot default
+Hello User.
+
+#bot default
+Test Automation Bot Framework
+MEDIA https://www.mindtree.com/sites/default/files/mindtree-welcome-to-possible-logo.png
+
+#bot default
+Functional Testing
+BUTTONS Learn More
+MEDIA https://cdn.guru99.com/images/FunctionalTestingProcess.png
+BUTTONS Learn More
+MEDIA https://cdn.guru99.com/images/FunctionalTestingProcess.png
+BUTTONS Learn More
+MEDIA http://www.idevnews.com/views/images/uploads/general/jenkins-features_350.jpg
+
+#bot default
+Ask Bot to execute functional,Service Testcase,Build and Deploy
+
+#bot default
+Example Like /n 1.please execute functional testcases for (projectName) 
+2.please execute service testcases for (projectName) 
+
+
+#me
+please execute functional testcases for AFLAC
+
+#bot default
+Mist Login 
+MEDIA http://mindtree-sambot.herokuapp.com/images/MIST-logo.png
+
+#bot default
+Credentials verification successful
+
+#bot default
+Please enter valid module name. You need to try again.
